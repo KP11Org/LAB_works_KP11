@@ -1,5 +1,6 @@
 # **Лабораторная работа 4 (2 урока)**
 ### Практический урок: Создание Telegram Echo Bot на Python с использованием venv и Git
+### [Дополнительный ресурс](https://habr.com/ru/companies/amvera/articles/820527/)
 
 В этом уроке мы создадим простого Telegram-бота, который будет повторять сообщения пользователя (echo bot).
 
@@ -38,7 +39,7 @@
 Для работы с Telegram API нам понадобится библиотека `python-telegram-bot`. Установим её:
 
 ```bash
-pip install aiogram
+pip install aiogram asyncio
 ```
 
 ---
@@ -47,28 +48,34 @@ pip install aiogram
 Создайте файл `bot.py` в папке проекта:
 
 ```python
-from aiogram import Bot, Dispatcher, executor, types
-
+from aiogram import Bot, Dispatcher, types, Router, filters, F
+import asyncio
 # Токен вашего бота
 API_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
-dp = Dispatcher(bot)
+dp = Dispatcher()
+start_router = Router()
 
 # Обработчик команды /start
-@dp.message_handler(commands=["start"])
+@start_router.message(filters.CommandStart())
 async def send_welcome(message: types.Message):
     await message.reply("Привет! Я echo bot. Напиши мне что-нибудь, и я повторю.")
 
 # Обработчик текстовых сообщений
-@dp.message_handler()
+@start_router.message(F.text)
 async def echo(message: types.Message):
     await message.answer(message.text)
 
+async def main():
+    dp.include_router(start_router)
+    await bot.delete_webhook(drop_pending_updates=True)
+    await dp.start_polling(bot)
+
 # Запуск бота
 if __name__ == "__main__":
-    executor.start_polling(dp, skip_updates=True)
+    asyncio.run(main())
 ```
 
 Замените `ВАШ_ТОКЕН_ЗДЕСЬ` на токен, который вы получили от BotFather.
