@@ -21,3 +21,6 @@
 ![image](https://github.com/user-attachments/assets/54eb61a5-3a51-4f76-8261-01ffb66adfd5)
 #### 8. Day of week - поле выбора с 5 значениями
 ![image](https://github.com/user-attachments/assets/a2d1f2c0-042b-4d1e-9aff-e10a0e42b675)
+#### 9. AREA - Область/Регион - поле выбора со списком областей/регионов. (Данные значения необходимо взять из папки [materals](./materials/) файл [towns.json](./materials/towns.json) )
+![image](https://github.com/user-attachments/assets/d8a41b1a-a394-4f0a-9ec2-85d391327ded)
+
