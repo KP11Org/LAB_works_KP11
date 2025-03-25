@@ -23,4 +23,11 @@
 ![image](https://github.com/user-attachments/assets/a2d1f2c0-042b-4d1e-9aff-e10a0e42b675)
 #### 9. AREA - Область/Регион - поле выбора со списком областей/регионов. (Данные значения необходимо взять из папки [materals](./materials/) файл [towns.json](./materials/towns.json) )
 ![image](https://github.com/user-attachments/assets/d8a41b1a-a394-4f0a-9ec2-85d391327ded)
+#### 10. TOWN - Город - поле выбора со списком городов. Данное поле не доступно пока не выбрана ЗОНА (AREA). Города отображаются согласно выбранной зоне. (Данные значения необходимо взять из папки [materals](./materials/) файл [towns.json](./materials/towns.json) )
+![image](https://github.com/user-attachments/assets/1b3ec47b-a990-4f27-af10-dfd637192011)
+#### 11. Все поля обязательны для заполнения (required)
+#### 12. После нажатия на кнопку Confirm проверьте все поля и обозначте пользователю.
+![image](https://github.com/user-attachments/assets/237b459e-3c55-4cfa-a4dc-bcd0020e2e67)
+### 13. Проект нужно выгрузить в Github и задиплоить в GitHub Pages.
+
 
