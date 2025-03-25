@@ -15,3 +15,9 @@
 ##### - Комплект (5-7 элементов) должен быть одной картинкой
 ##### - Данная картинка должна добавляться в HTML разметку с помощью JavaScript.
 ##### - Для упрощения работы с комплектами называйте картинки согласно паттерну (man_15_more.svg, man_15_less.svg, man_5_5.svg, man_plus_5_15.svg, man_minus_5_15.svg)
+#### 6. Select Gender - поле выбора с двумя зачениями (Man - Woman)
+![image](https://github.com/user-attachments/assets/bfafea1b-dba4-41de-b99e-a31fc41c3d90)
+#### 7. Time - поле выбора времени
+![image](https://github.com/user-attachments/assets/54eb61a5-3a51-4f76-8261-01ffb66adfd5)
+#### 8. Day of week - поле выбора с 5 значениями
+![image](https://github.com/user-attachments/assets/a2d1f2c0-042b-4d1e-9aff-e10a0e42b675)
