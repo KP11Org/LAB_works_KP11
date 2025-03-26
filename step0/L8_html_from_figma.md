@@ -1,4 +1,4 @@
-# **Лабораторная работа 8 (4 урока)**
+# **Лабораторная работа 8 (8 уроков)**
 ### HTML CSS Figma
 
 ---
@@ -30,5 +30,27 @@
 ![image](https://github.com/user-attachments/assets/237b459e-3c55-4cfa-a4dc-bcd0020e2e67)
 #### 13. Реализуйте с помощью JavaScript движение солнца и луны (для решения задачи получайте текущее время)
 ### 14. Проект нужно выгрузить в Github и задиплоить в GitHub Pages.
+---
+# Шаблоны для упрощения создания базовой структуры
+1. **Структура проекта**
+![image](https://github.com/user-attachments/assets/4e780032-7763-479e-b4ee-8d42f3c1cd61)
+2. **HTML**
+- *Head*
+- ![image](https://github.com/user-attachments/assets/223833cf-9aa4-49fb-bc62-1ea7135a4119)
+- *Sun*, *Moon*, *Select Gender*
+- ![image](https://github.com/user-attachments/assets/c9c50baf-8df1-4078-9177-af1c87720ce8)
+- *Day of week* and *Time*
+- ![image](https://github.com/user-attachments/assets/e3fbeb61-3c52-46f9-8174-3eb50b29593d)
+- *Select region*, *Select town*, *Confirm*, *Result* (For notify user)
+- ![image](https://github.com/user-attachments/assets/d6a1f251-3264-44a1-8199-3e0844496c39)
+
+3. **CSS**
+- *body*, *inputs*, *selects*, *labels*
+- ![image](https://github.com/user-attachments/assets/2cde6d49-a269-4335-8aaa-66d2aeb8b62b)
+- *result*, *red and green styles*, *base for sun and moon*
+- ![image](https://github.com/user-attachments/assets/5ccbab78-83d4-41af-8fb1-ebb1a36727f7)
+- *sun* and *moon*
+
+
 
 
