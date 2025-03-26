@@ -29,7 +29,7 @@
 #### 12. После нажатия на кнопку Confirm проверьте все поля и обозначте пользователю.
 ![image](https://github.com/user-attachments/assets/237b459e-3c55-4cfa-a4dc-bcd0020e2e67)
 #### 13. Реализуйте с помощью JavaScript движение солнца и луны (для решения задачи получайте текущее время)
-### 14. Проект нужно выгрузить в Github и задиплоить в GitHub Pages.
+
 ---
 # Шаблоны для упрощения создания базовой структуры
 1. **Структура проекта**
@@ -50,6 +50,55 @@
 - *result*, *red and green styles*, *base for sun and moon*
 - ![image](https://github.com/user-attachments/assets/5ccbab78-83d4-41af-8fb1-ebb1a36727f7)
 - *sun* and *moon*
+- ![image](https://github.com/user-attachments/assets/5905add8-da8a-4ce4-aed9-88ae777d6f6f)
+
+4. **JavaScript**
+- ![image](https://github.com/user-attachments/assets/10dc1d46-a6ae-48fc-8856-e1ab34ec6323)
+- ![image](https://github.com/user-attachments/assets/f89b5893-88e4-4e1e-a8c1-ac36b2648f15)
+- ![image](https://github.com/user-attachments/assets/5b12515c-ebde-42e3-80ff-04d01d02bcca)
+- ![image](https://github.com/user-attachments/assets/194e4dd9-713c-489e-afa9-73fb517d4795)
+- ![image](https://github.com/user-attachments/assets/8bd5e186-1a61-4dd7-9612-ad0b594e076c)
+- ![image](https://github.com/user-attachments/assets/45fc4de1-7b0e-4a8e-9297-38c70e00e5e2)
+- ![image](https://github.com/user-attachments/assets/269389b6-a364-43d3-b7e0-b7800b6eef2a)
+- ![image](https://github.com/user-attachments/assets/bfc966ea-c35e-459f-b477-92c45aed7f3c)
+- ![image](https://github.com/user-attachments/assets/0bab6ce0-b90b-424b-af91-d316a3562c9d)
+
+---
+# Основные задачи 
+1. **Сделайте страницу для демонстрации комплектов одежды (show.html)** Напишите функцию которая принимает в себя JS объек (
+и в зависимости от этих двух параметров показывает соответствующий комплект одежды.):
+```json
+{
+"gender":"man",
+"temp": 15.6,
+}
+```
+2. **Добавьте звезды для ночи и облака для дня**
+3. **Добавьте мерцание для этого объекта** ![image](https://github.com/user-attachments/assets/f41cfe10-bccc-454a-8873-0996929bb6c5)
+4. **Настройти стили чтобы обе страницы соответствовал разработанному дизайну**
+5. **Проект нужно выгрузить в Github и задиплоить в GitHub Pages.**
+---
+### Оценивание
+1. Макет в фигме - 10%
+2. Выполнить шаги 1-13 - 25%
+3. Основные задачи (не учитываются без 2го пункта ^ ):
+   - 1(show.html) - 20%
+   - 2(Облака и звезды) - 10%
+   - 3(Мерцание) - 15%
+   - 4(ГОСТ) - 10%
+   - 5(GitHub Pages) - 10%
+
+### 91% - оценка 5
+### 66% - оценка 4
+### 33% - оценка 3
+
+
+
+
+
+
+
+
 
 
 
