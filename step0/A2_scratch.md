@@ -1,4 +1,4 @@
-# [Scratch](https://scratch.mit.edu/)
+# [Scratch](https://scratch.mit.edu/) (3 урока)
 ![image](https://github.com/user-attachments/assets/89e3de5f-8678-48b9-b84c-51eb94685feb)
 
 ---
