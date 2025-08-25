@@ -102,7 +102,9 @@
 ---
 
 **Слепая печать**  
-*(Этот раздел обязательный. Оставьте его пустым.)*
+1. Перейдите на сайт [stamina-online](https://stamina-online.com/ru/lessons/ru) и авторизуйтесь или зарегайтесь.
+2. Пройдите 4 урока из раздела "Набираем слова"<img width="835" height="358" alt="image" src="https://github.com/user-attachments/assets/fd8f6731-5090-4608-9282-25244d477f90" />
+
 
 ---
 
