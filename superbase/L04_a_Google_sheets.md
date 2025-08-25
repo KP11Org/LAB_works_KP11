@@ -69,7 +69,9 @@
 ---
 
 **Слепая печать**  
-*(Этот раздел обязательный. Оставьте его пустым.)*
+1. Перейдите на сайт [stamina-online](https://stamina-online.com/ru/lessons/ru) и авторизуйтесь или зарегайтесь.
+2. Пройдите 4 урока из раздела "Знаки препинания" <img width="837" height="367" alt="image" src="https://github.com/user-attachments/assets/dabdb191-01e4-4377-9179-003984c0cdd5" />
+
 
 ---
 
