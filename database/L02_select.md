@@ -130,7 +130,8 @@ WHERE age >= 20 AND (group_name = 'ИТ-101' OR group_name = 'ИТ-103');
 
 ### **5. Слепая печать**
 
-> *(Этот раздел остаётся пустым. Заполняется при выполнении работы вручную — имитация слепой печати.)*
+1. Перейдите на сайт [stamina-online](https://stamina-online.com/ru/programming)
+2. Пройдите два урока по [языку программирования SQL](https://stamina-online.com/ru/workout/programming/18)
 
 ---
 
