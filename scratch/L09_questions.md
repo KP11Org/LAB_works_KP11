@@ -149,7 +149,7 @@
 ## **Слепая печать**
 
 1. Перейдите на сайт [https://stamina-online.com/](https://stamina-online.com/)
-2. Пройдите два урока по [Частотные словари](https://stamina-online.com/ru/workout/dictionary/40)
+2. Пройдите два урока по [Частотные словари](https://stamina-online.com/ru/workout/dictionary/41)
 
 ---
 
