@@ -1,4 +1,5 @@
 ## 🧪 Лабораторная работа №2: Создание полосы препятствий
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6af9ea0-e71a-40b1-9d86-4b798ee3f599" />
 
 ---
 
